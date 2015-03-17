@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="lib" path="D:/Development/Android/sdk/add-ons/addon-google_apis-google-21/libs/maps.jar"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="lib" path="libs/android-support-v4.jar"/>
+	<classpathentry kind="lib" path="libs/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="libs/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="libs/google-api-client-1.15.0-rc.jar"/>
+	<classpathentry kind="lib" path="libs/google-api-client-android-1.17.0-rc.jar"/>
+	<classpathentry kind="lib" path="libs/google-api-services-drive-v2-rev113-1.17.0-rc.jar"/>
+	<classpathentry kind="lib" path="libs/google-http-client-1.15.0-rc.jar"/>
+	<classpathentry kind="lib" path="libs/google-http-client-android-1.17.0-rc.jar"/>
+	<classpathentry kind="lib" path="libs/google-http-client-gson-1.17.0-rc.jar"/>
+	<classpathentry kind="lib" path="libs/google-oauth-client-1.17.0-rc.jar"/>
+	<classpathentry kind="lib" path="libs/gson-2.1.jar"/>
+	<classpathentry kind="lib" path="libs/httpclientandroidlib-4.2.1.jar"/>
+	<classpathentry kind="lib" path="libs/httpmime-4.0.jar"/>
+	<classpathentry kind="lib" path="libs/javarosa-libraries-2015-01-10.jar"/>
+	<classpathentry kind="lib" path="libs/joda-time-2.0.jar"/>
+	<classpathentry kind="lib" path="libs/kxml2-2.3.0.jar"/>
+	<classpathentry kind="lib" path="libs/opencsv-2.3.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/google-play-services_lib"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
