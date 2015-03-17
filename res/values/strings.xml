@@ -147,7 +147,7 @@
 <string name="show_splash">Show splash screen</string>
 <string name="show_splash_summary">Shows when application starts</string>
 <string name="splash_path">Selected splash image</string>
-<string name="default_splash_path">ODK Default</string>
+<string name="default_splash_path">Force Field Default</string>
 <string name="select_another_image">Select another image</string>
 <string name="use_odk_default">Use default image</string>
 <string name="change_splash_path">Change image</string>

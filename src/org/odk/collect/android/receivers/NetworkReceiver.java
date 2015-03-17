@@ -236,7 +236,7 @@ public class NetworkReceiver extends BroadcastReceiver implements InstanceUpload
                 notifyIntent, PendingIntent.FLAG_UPDATE_CURRENT);
 
         NotificationCompat.Builder mBuilder = new NotificationCompat.Builder(Collect.getInstance())
-                .setSmallIcon(R.drawable.notes)
+                .setSmallIcon(R.drawable.logo)
                 .setContentTitle(Collect.getInstance().getString(R.string.odk_auto_note))
                 .setContentIntent(pendingNotify)
                 .setContentText(message.toString().trim())
